@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Verma</h1>
-<h3 align="center">BCA Student | DSA Learner | Aspiring Software Developer</h3>
+<h3 align="center">BCA Student | DSA Practitioner | Aspiring Software Developer</h3>
 
 ---
 
