@@ -35,7 +35,7 @@ https://github.com/adxxttii
 
 * Java
 * C++
-* Python (Basic)
+* Python 
 
 **Concepts**
 
